@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/overtheraadot/make-the-ai-judge-feel-curious-20261122-2311/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
 [![reward](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/overtheraadot/make-the-ai-judge-feel-curious-20261122-2311/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
 
-A lighthouse keeper's note claims the sea answers only questions asked twice, leaving the reader wondering which question is worth asking again.
+A lighthouse keeper's note hints that the sea only answers questions asked twice, leaving the reader wondering which single question is worth asking again.
 
 ## Run it
 
